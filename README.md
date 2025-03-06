@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Husain</h1>
 <h3 align="center">Frontend Dev | AI Enthusiast | Space Dreamer 🚀</h3>
 
-<img align="right" width="400" src="https://media1.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.webp">
+<img align="right" width="250" src="https://media1.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.webp">
 
 - 🔭 I’m currently working on **Frontend Projects & AI Exploration**
 - 🌱 I’m currently learning **React, AI, and Game Development**
