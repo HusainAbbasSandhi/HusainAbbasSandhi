@@ -11,9 +11,9 @@
 - 📫 How to reach me: @husaisandhi.hs@gmail.com
 
 ### 🌐 Connect with me  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/husain_abbasali))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/husainsandhi/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]((https://portfolio-chi-topaz-25.vercel.app/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/husain_abbasali)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husainsandhi/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-chi-topaz-25.vercel.app/)  
 
 ### 🛠️ Languages & Tools  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,4 +25,5 @@
 ### 📊 GitHub Stats  
 ![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
 
-<img align="right" width="400" src="(https://media1.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.webp)">
+<img align="right" width="400" src="https://media1.giphy.com/media/XlGQ2sBz4gvIAv0FVa/giphy.webp">
+
